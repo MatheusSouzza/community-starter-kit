@@ -1,10 +1,8 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
-
-## What it does
-
-FEATURES PLACEHOLDER
+Bem vindo 
+## What it doesnnn
+Todas as características
 
 ## Getting started
 
